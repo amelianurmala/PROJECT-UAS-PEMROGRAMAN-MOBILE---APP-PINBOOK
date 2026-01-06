@@ -30,14 +30,15 @@ Pada saat aplikasi dijalankan, PinBook menampilkan splash screen yang dilengkapi
 - XML Layout
 
 ---
-- **STORYBOARD**
+- # **STORYBOARD**
 ![Desktop - 1 (2)](https://github.com/user-attachments/assets/41ca69c9-08e5-4a55-87fa-7256f1ed929f)
 ![Desktop - 2 (4)](https://github.com/user-attachments/assets/f1f9407c-2c5f-45fd-8fb3-13afe81cad0a)
 
-- **MOCKUP**
+- # **MOCKUP**
 ![Desktop - 4 (4)](https://github.com/user-attachments/assets/9c3a9478-42dd-4c91-bb5e-71645affe69f)
 
-- **UI DESIGN**
+- # **UI DESIGN**
+  
 ![A4 - 1 (1)](https://github.com/user-attachments/assets/9bf32555-7381-4736-a249-ca832c237fa3)
 
 ![A4 - 2 (1)](https://github.com/user-attachments/assets/0324b18b-8931-4271-b008-106918127a02)
