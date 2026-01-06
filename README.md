@@ -39,41 +39,39 @@ Pada saat aplikasi dijalankan, PinBook menampilkan splash screen yang dilengkapi
 
 - # **UI DESIGN**
   
-![A4 - 1 (1)](https://github.com/user-attachments/assets/9bf32555-7381-4736-a249-ca832c237fa3)
+![A4 - 1 (1)](https://github.com/user-attachments/assets/5502f8a8-7c71-494d-9fb8-104ed2b6a55a)
 
-![A4 - 2 (1)](https://github.com/user-attachments/assets/0324b18b-8931-4271-b008-106918127a02)
+![A4 - 2 (1)](https://github.com/user-attachments/assets/53c91296-3686-4ab3-999f-3e232881d6cd)
 
-![A4 - 3 (1)](https://github.com/user-attachments/assets/34f41627-6205-449c-a8ea-509ef0f0e3b0)
+![A4 - 3 (1)](https://github.com/user-attachments/assets/8e28118e-74d2-4003-abf0-ced9d774e2d0)
 
-![A4 - 4 (1)](https://github.com/user-attachments/assets/eba9dc49-9500-4110-9817-90f570325a41)
+![A4 - 4 (1)](https://github.com/user-attachments/assets/f9c6ff9e-abb8-44b1-87d8-e717f1b2a1c2)
 
-![A4 - 5 (1)](https://github.com/user-attachments/assets/ed18a37c-272a-4415-bcbc-0c696253c7bc)
+![A4 - 5 (1)](https://github.com/user-attachments/assets/7ee6c888-5cd7-4ea3-bc04-0504a6651dbd)
 
-![A4 - 6 (1)](https://github.com/user-attachments/assets/022c5e9a-e634-4c68-bf8f-121742c5e408)
+![A4 - 6 (1)](https://github.com/user-attachments/assets/7391601b-603d-4419-a68a-7bf140baceba)
 
-![A4 - 7 (1)](https://github.com/user-attachments/assets/ea867c3e-3938-45d9-818d-348f1e632420)
+![A4 - 7 (1)](https://github.com/user-attachments/assets/859939c4-6031-4fb2-9755-6b498d5148a1)
 
-![A4 - 8 (1)](https://github.com/user-attachments/assets/8df71b3d-6bde-4ac0-8b71-ad0ac41b76d7)
+![A4 - 8 (1)](https://github.com/user-attachments/assets/e1242195-fbb3-4f23-95a4-b361c8ea3e33)
 
-![A4 - 9 (1)](https://github.com/user-attachments/assets/4501f4c9-6bc1-4a8a-a744-3b49fcc725c0)
+![A4 - 9 (1)](https://github.com/user-attachments/assets/e3aa7f77-0bc5-45f4-8567-7800bd74c6be)
 
-![A4 - 10 (1)](https://github.com/user-attachments/assets/7c269aba-1345-4fd9-ba83-57a9568cc4be)
+![A4 - 10 (1)](https://github.com/user-attachments/assets/f3c8b299-38fd-4105-acfe-1a67453db7b9)
 
-![A4 - 11 (1)](https://github.com/user-attachments/assets/b6b049cc-a99f-4ca1-bdca-041c393102dd)
+![A4 - 11 (1)](https://github.com/user-attachments/assets/e50c5b02-dfce-4a57-825e-14f4b8adc206)
 
-![A4 - 12 (2)](https://github.com/user-attachments/assets/13f7cff2-1f5d-430a-a744-c021147e5eb1)
+![A4 - 12 (2)](https://github.com/user-attachments/assets/67012b88-bd51-4d9a-975f-b14db0c18723)
 
-![A4 - 13 (1)](https://github.com/user-attachments/assets/83695ecf-46a0-4778-843a-3387c01c532c)
+![A4 - 13 (1)](https://github.com/user-attachments/assets/0aa9e651-f071-45eb-b12d-2cd03490dad7)
 
-![A4 - 14 (1)](https://github.com/user-attachments/assets/1d03073e-b17b-4f6b-b03a-814a8588474f)
+![A4 - 14 (1)](https://github.com/user-attachments/assets/ab08af79-0395-4ed8-9b12-2a6f1ad98650)
 
-![A4 - 15 (1)](https://github.com/user-attachments/assets/61b6cc98-ed68-4a75-9e25-4720a8839ab6)
+![A4 - 15 (1)](https://github.com/user-attachments/assets/825e6588-78f0-45c9-95f6-061e0994648f)
 
-![A4 - 16 (1)](https://github.com/user-attachments/assets/d5de156f-af62-4ee1-9d61-9b44291acf97)
+![A4 - 16 (1)](https://github.com/user-attachments/assets/66806fa5-5ef5-4521-b9ba-c50cbed223bd)
 
-![A4 - 17 (1)](https://github.com/user-attachments/assets/267f4af0-f2d8-45d1-9c10-9fd8cee3834c)
-
-![A4 - 18 (2)](https://github.com/user-attachments/assets/5897d87e-5320-4f31-a29c-b5565152c211)
+![A4 - 17 (1)](https://github.com/user-attachments/assets/f7b952c9-e7f6-4020-b42a-1a612cae9f02)
 
 
 ---
