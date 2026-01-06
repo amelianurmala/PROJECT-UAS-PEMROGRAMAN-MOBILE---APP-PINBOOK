@@ -32,10 +32,10 @@ Pada saat aplikasi dijalankan, PinBook menampilkan splash screen yang dilengkapi
 ---
 - **STORYBOARD**
 ![Desktop - 1 (2)](https://github.com/user-attachments/assets/41ca69c9-08e5-4a55-87fa-7256f1ed929f)
-![Desktop - 2 (3)](https://github.com/user-attachments/assets/843f9f0a-b9e2-4e3f-a4aa-84b5cdd3feed)
+![Desktop - 2 (4)](https://github.com/user-attachments/assets/f1f9407c-2c5f-45fd-8fb3-13afe81cad0a)
 
 - **MOCKUP**
-![Desktop - 4 (2)](https://github.com/user-attachments/assets/9396142f-4594-443f-90a2-d626b1abc671)
+![Desktop - 4 (4)](https://github.com/user-attachments/assets/9c3a9478-42dd-4c91-bb5e-71645affe69f)
 
 - **UI DESIGN**
 ![A4 - 1 (1)](https://github.com/user-attachments/assets/9bf32555-7381-4736-a249-ca832c237fa3)
